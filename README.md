@@ -1,4 +1,4 @@
-_Detailed setup instructions alongwith code examples and Peripheral Access Crates (PACs) **will be made available by CW16, 2023**._
+_Detailed setup instructions alongwith code examples and Peripheral Access Crates (PACs) **will be made available by CW17, 2023**._
 
 Please star/bookmark this repository for easy access later on.
 
