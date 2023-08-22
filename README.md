@@ -1,6 +1,4 @@
-_Detailed setup instructions alongwith code examples and Peripheral Access Crates (PACs) **will be made available by CW17, 2023**._
-
-Please star/bookmark this repository for easy access later on.
+_We are working on code examples and creating new Peripheral Access Crates for AURIX™ from scratch. Please bookmark this repository and check back later._
 
 In the meantime, for more information or any questions, please contact us via the [Infineon Developer Community & Support Forum](https://community.infineon.com/)
 
